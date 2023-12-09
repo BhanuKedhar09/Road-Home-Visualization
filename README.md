@@ -1,7 +1,8 @@
 # Road-Home-Visualization
 
-Access the visualization here : https://observablehq.com/d/dc3689c0d68c43fa
+I would highly recommend looking at the project report after/before accessing the visualization.
 
+Have the interactive visualization here : https://observablehq.com/d/dc3689c0d68c43fa
 Glimpse of the visualization :
 
 <img width="767" alt="image" src="https://github.com/BhanuKedhar09/Road-Home-Visualization/assets/112876951/2961b3d5-5660-4147-8f9a-2d227d839cf5">
